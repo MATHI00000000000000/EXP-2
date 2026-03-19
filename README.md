@@ -49,11 +49,12 @@ Procedure for Load test:
 Circuit Diagram:
 <img width="1080" height="1422" alt="image" src="https://github.com/user-attachments/assets/27efc4d7-f0cb-4172-9d05-5e18f1efc336" />
 <img width="1080" height="1504" alt="image" src="https://github.com/user-attachments/assets/213a642b-e782-4b14-a2cb-367c14ca3aa3" />
+
 <img width="252" height="270" alt="image" src="https://github.com/user-attachments/assets/d3772ec6-0226-45e2-97c6-0566ebd8a53b" />
 
 Tabulation for Open Circuit Test
-<img width="227" height="245" alt="image" src="https://github.com/user-attachments/assets/affc8976-4df3-4eec-84b6-63930ab6f293" />
 
+<img width="227" height="245" alt="image" src="https://github.com/user-attachments/assets/affc8976-4df3-4eec-84b6-63930ab6f293" />
 Tabulation for Load Test:
 
 Model graph:
