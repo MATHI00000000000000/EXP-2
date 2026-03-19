@@ -54,10 +54,16 @@ Circuit Diagram:
 
 
 Tabulation for Open Circuit Test
+
+
+
 <img width="252" height="270" alt="image" src="https://github.com/user-attachments/assets/d3772ec6-0226-45e2-97c6-0566ebd8a53b" />
 
 
 Tabulation for Load Test:
+
+
+
 <img width="227" height="245" alt="image" src="https://github.com/user-attachments/assets/affc8976-4df3-4eec-84b6-63930ab6f293" />
 
 Model graph:
